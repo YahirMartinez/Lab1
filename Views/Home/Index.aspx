@@ -10,6 +10,17 @@
     <div>
         <h1>Bienvenido
         </h1>
+        <hr />
+        <a href="/Video/index">Ver Videos</a>
+        <br />
+        <a href="#">Agregar Video</a>
+        <br />
+        <a href="#">Eliminar Video</a>
+        <br />
+        <a href="#">Modificar Video</a>
+        <br />
+
+        <a href="#"></a>
     </div>
 </body>
 </html>
