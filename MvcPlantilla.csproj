@@ -78,7 +78,12 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Video\Agregarvideo.aspx" />
+    <Content Include="Views\Video\Eliminarvideo.aspx" />
+    <Content Include="Views\Video\EliminarXreproducciones.aspx" />
     <Content Include="Views\Video\Index.aspx" />
+    <Content Include="Views\Video\Modificarvideo.aspx" />
+    <Content Include="Views\Video\Vervideo.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

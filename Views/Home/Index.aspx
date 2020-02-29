@@ -7,20 +7,19 @@
     <title>Index</title>
 </head>
 <body>
-    <div>
         <h1>Bienvenido
         </h1>
         <hr />
-        <a href="/Video/index">Ver Videos</a>
+        <a href="/Video/Vervideo">Ver Videos</a>
         <br />
-        <a href="#">Agregar Video</a>
+        <a href="/Video/Agregarvideo">Agregar Video</a>
         <br />
-        <a href="#">Eliminar Video</a>
+        <a href="/Video/Eliminarvideo">Eliminar Video</a>
         <br />
-        <a href="#">Modificar Video</a>
+        <a href="/Video/Modificarvideo">Modificar Video</a>
+        <br />
+        <a href="/Video/EliminarXreproducciones">Eliminar x reproducciones</a>
         <br />
 
-        <a href="#"></a>
-    </div>
 </body>
 </html>
