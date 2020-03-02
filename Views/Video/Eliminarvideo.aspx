@@ -11,7 +11,7 @@
     <label for="idVideo">idVideo</label>
         <input type="text" name="idVideo"/>
 
-        <input type="submit" value="Borrar Video"/>
+        <input type="submit" value="Eliminar Video"/>
     </h1>
 </body>
 </html>

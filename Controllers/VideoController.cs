@@ -19,6 +19,11 @@ namespace MvcPlantilla.Controllers
         {
             return View();
         }
+        public ActionResult Vervideo()
+        {
+            ViewData["datavideo"] = BaseHelper.ejecutarConsulta("Select * from video", CommandType.Text);
+            return View();
+        }
         public ActionResult Agregarvideo()
         {
             return View();

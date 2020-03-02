@@ -7,8 +7,11 @@
     <title>EliminarXreproducciones</title>
 </head>
 <body>
-    <div>
-    
-    </div>
+    <h1>
+    <label for="Reproducciones">Reproducciones</label>
+        <input type="text" name="Reproducciones"/>
+
+        <input type="submit" value="Eliminar Video"/>
+    </h1>
 </body>
 </html>
